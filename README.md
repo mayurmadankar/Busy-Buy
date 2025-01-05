@@ -35,7 +35,7 @@ To get a local copy of the project and run it on your machine, follow these step
 
 ### Installation
 1. Clone the repository:
-- git clone 
+- git clone : https://github.com/mayurmadankar/Busy-Buy.git
 
 2. Install dependencies:
 - npm install
